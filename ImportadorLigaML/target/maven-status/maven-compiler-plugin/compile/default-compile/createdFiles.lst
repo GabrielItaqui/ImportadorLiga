@@ -1,0 +1,3 @@
+br\com\mercadoturbo\liga\JakartaRestConfiguration.class
+br\com\mercadoturbo\liga\resources\JakartaEE10Resource.class
+br\com\mercadoturbo\liga\services\ScraperLigaService.class

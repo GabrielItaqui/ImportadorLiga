@@ -1,0 +1,10 @@
+#surefire_0
+#Mon May 29 11:27:09 BRT 2023
+basedir=C\:\\Users\\merca\\OneDrive\\Documentos\\NetBeansProjects\\ImportadorLigaML
+netbeans.deploy=true
+exec.vmArgs=
+exec.appArgs=
+file.encoding=UTF-8
+user.dir=C\:\\Users\\merca\\OneDrive\\Documentos\\NetBeansProjects\\ImportadorLigaML
+maven.ext.class.path=C\:\\Netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+localRepository=C\:\\Users\\merca\\.m2\\repository

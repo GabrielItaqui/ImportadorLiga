@@ -1,0 +1,8 @@
+#surefire_0
+#Thu May 25 15:07:59 BRT 2023
+basedir=C\:\\Users\\merca\\OneDrive\\Documentos\\NetBeansProjects\\ImportadorLigaML
+test=br.com.mercadoturbo.liga.services.ScraperLigaServiceTest
+file.encoding=UTF-8
+user.dir=C\:\\Users\\merca\\OneDrive\\Documentos\\NetBeansProjects\\ImportadorLigaML
+maven.ext.class.path=C\:\\Netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+localRepository=C\:\\Users\\merca\\.m2\\repository
